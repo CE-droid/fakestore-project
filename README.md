@@ -98,7 +98,7 @@ fakestore-project/
    ```bash
    git clone https://github.com/CE-droid/fakestore-project.git
    cd fakestore-project
-   
+
 1. **Install dependencies** :
    ```bash
     npm install
@@ -111,7 +111,8 @@ fakestore-project/
 
 ###  Authentication
 
-   - Any username/password works 
+   - Any username/password works from the fakestore api or use this : -  username: mor_2314
+                                                                      -  password: 83r5^_
 
     - Admin access: -  username: johnd
                     -  password: m38rmF$
