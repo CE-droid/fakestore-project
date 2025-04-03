@@ -1,8 +1,8 @@
 # FakeStore Admin Dashboard
 
 ![FakeStore Screenshot](./public/login.png)  
-(./public/product.png)  
-(./public/product_page.png)  
+![FakeStore Screenshot](./public/product.png)  
+![FakeStore Screenshot](./public/product_page.png)  
 
 *A modern e-commerce dashboard built with Next.js*
 
@@ -32,7 +32,8 @@
   - Chakra UI component library
   - Client-side caching
 
-## 📦 Project Structure
+##  Project Structure
+```bash
 fakestore-project/
 ├─ .next/
 ├─ public/
@@ -90,17 +91,22 @@ fakestore-project/
 ├─ postcss.config.js
 ├─ README.md
 └─ tailwind.config.js
+```
 ## 🛠️ Development Setup
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/fakestore.git
-   cd fakestore
+   git clone https://github.com/CE-droid/fakestore-project.git
+   cd fakestore-project
+   
 1. **Install dependencies** :
+   ```bash
     npm install
 2. **Run the development server**:
+   ```bash
       npm run dev
 3. **Access the app**:
+   ```bash
      http://localhost:3000
 
 ###  Authentication
